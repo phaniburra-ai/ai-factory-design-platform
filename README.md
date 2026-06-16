@@ -1,5 +1,5 @@
 AI Factory Design Platform
-Enterprise AI infrastructure design, cost modelling, and ROI analysis — in minutes, not months.
+Enterprise AI infrastructure design, cost modelling, and ROI analysis - in minutes, not months.
 
 🔗 Live platform: aifactorydesignplatform.com
 
