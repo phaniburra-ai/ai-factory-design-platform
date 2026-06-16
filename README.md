@@ -44,10 +44,10 @@ The PDFs in this folder are real exports from the platform for the following sce
 | Report | What's inside |
 |---|---|
 | [Executive Summary](https://drive.google.com/file/d/1Szs4ghKnnGEbcSrErrHXDeTm7ZqeDOUS/view?usp=sharing) | Recommendation score, architecture rationale, key risks, next steps |
-| [Technical Blueprint](enterprise_knowledge_assistant___azure_rag_platform_technical_blueprint.pdf) | Layer-by-layer architecture — LLM, vector store, orchestration, security, compute |
-| [Cost Model](enterprise_knowledge_assistant___azure_rag_platform_cost_model.pdf) | 13-line cost breakdown, one-time vs recurring, 3-year TCO and monthly projection |
-| [ROI Business Case](enterprise_knowledge_assistant___azure_rag_platform_roi_business_case.pdf) | Payback period, NPV, IRR, 3-year cumulative benefit curve |
-| [Architect Brief](enterprise_knowledge_assistant___azure_rag_platform_architect_brief.pdf) | Persona-targeted technical decision rationale for a solutions architect |
+| [Technical Blueprint](https://drive.google.com/file/d/1ekvnSkpwv725UE6R9onmOjIlgLWk44jM/view?usp=sharing) | Layer-by-layer architecture — LLM, vector store, orchestration, security, compute |
+| [Cost Model](https://drive.google.com/file/d/1CKFi2ApGTpf9cdG8dICJ_Q4onUQnMbVK/view?usp=sharing) | 13-line cost breakdown, one-time vs recurring, 3-year TCO and monthly projection |
+| [ROI Business Case](https://drive.google.com/file/d/1mWc0Hd1YELpqu0CjyYFX4vEw9tysnbAD/view?usp=sharing) | Payback period, NPV, IRR, 3-year cumulative benefit curve |
+| [Architect Brief](https://drive.google.com/file/d/1Z4VsX6hmogJDlZiD-j60CccStb-xVW0R/view?usp=sharing) | Persona-targeted technical decision rationale for a solutions architect |
 
 ---
 
