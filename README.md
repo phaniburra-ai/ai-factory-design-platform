@@ -1,23 +1,87 @@
 # AI Factory Design Platform
 
-> **Enterprise AI infrastructure design, cost modelling, and ROI analysis — in minutes, not months.**
+`AI Infrastructure` • `Agentic AI` • `Enterprise Architecture` • `Multi-Model Systems` • `Business Execution`
 
-🔗 **Live platform:** [aifactorydesignplatform.com](https://aifactorydesignplatform.com)
+**Enterprise AI infrastructure design, cost modelling, and ROI analysis — in minutes, not months.**  
+🔗 **Live platform:** [AI Factory Design Platform](https://aifactorydesignplatform.com)
 
 ---
 
-## What this is
+## Overview
 
-AI Factory Design is a platform built for CIOs, CTOs, and enterprise architects who need to make fast, defensible decisions about AI infrastructure — before writing a single line of code.
+Enterprise AI is no longer just about selecting models.  
+It is about designing systems that convert infrastructure, intelligence, and workflows into real business execution.
 
-It answers the questions every enterprise AI programme faces:
+Most organizations still struggle with:
+
+- choosing the right AI infrastructure strategy
+- comparing cloud, GPU, and hybrid deployment options
+- estimating total cost of ownership (TCO)
+- designing multi-model and agentic AI systems
+- aligning AI initiatives to measurable business outcomes
+
+The **AI Factory Design Platform** addresses that gap.
+
+It enables CIOs, CTOs, enterprise architects, and transformation leaders to design, simulate, and evaluate AI Factory architectures **before writing a single line of code**, producing defensible outputs for technical, financial, and executive stakeholders.
+
+---
+
+## What is an AI Factory?
+
+An **AI Factory** is an enterprise system that converts compute, models, and data into scalable business execution.
+
+This platform approaches AI Factory design across three connected layers:
+
+### 1. Infrastructure Layer
+- GPU compute
+- Cloud / bare metal / hybrid deployment models
+- Networking and storage design
+- Cost and performance trade-offs
+
+### 2. Agentic AI Layer
+- Multi-agent orchestration
+- LLM and multi-model strategy
+- Tool and API integration
+- Runtime governance and execution patterns
+
+### 3. Business Execution Layer
+- Workflow automation
+- ERP / CRM / HCM integration
+- Decision pipelines
+- Business outcome alignment
+
+**AI systems only deliver enterprise value when all three layers are aligned.**
+
+---
+
+## What this platform does
+
+AI Factory Design is built for enterprise decision-makers who need fast, defensible answers to questions like:
 
 - Which cloud and GPU stack fits our workload and compliance posture?
-- What does this actually cost over 3 years?
-- When do we break even, and what's the NPV?
-- What does the architecture look like for our specific use case and data sensitivity?
+- What does this cost over 3 years?
+- When do we break even — and what’s the NPV?
+- What does the architecture look like for our specific use case, scale, and data sensitivity?
 
-The platform takes your scenario inputs (industry, use case, cloud preference, budget, user count, compliance requirements, strategic partners) and produces a full AI factory design — architecture blueprint, vendor bill of materials, cost model, ROI business case, and executive narrative — in under a minute.
+The platform takes structured scenario inputs such as:
+
+- industry
+- use case
+- cloud preference
+- budget
+- user count
+- compliance requirements
+- data sensitivity
+- strategic partners
+
+It then produces, in under a minute:
+
+- architecture blueprint
+- vendor bill of materials
+- cost model
+- ROI business case
+- executive summary
+- architect-oriented rationale
 
 ---
 
@@ -36,10 +100,12 @@ The PDFs in this folder are real exports from the platform for the following sce
 | **Data sensitivity** | Confidential |
 | **Compliance** | SOC 2 Type II · ISO 27001 · GDPR · MiFID II |
 | **Strategic partners** | NVIDIA · Microsoft |
-| **Estimated 3-yr TCO** | ~$847,000 |
-| **Payback period** | ~14 months |
+| **Estimated 3-yr TCO** | ≈ $847,000 |
+| **Payback period** | ≈ 14 months |
 
-### Downloads
+---
+
+## Downloads
 
 | Report | What's inside |
 |---|---|
@@ -53,72 +119,29 @@ The PDFs in this folder are real exports from the platform for the following sce
 
 ## How the recommendation engine works
 
-```
+```text
 Scenario inputs
       │
       ▼
-Deterministic rules     ← cloud presets, compliance gates, data-sensitivity scoring
+Deterministic rules
+(cloud presets, compliance gates, data-sensitivity scoring)
       │
       ▼
-Scoring engine          ← weighted vendor/product fit across 8 architecture layers
+Scoring engine
+(weighted vendor / product fit across 8 architecture layers)
       │
       ▼
-Cost engine             ← budget multipliers, user scaling, cloud pricing, security uplift
+Cost engine
+(budget multipliers, user scaling, cloud pricing, security uplift)
       │
       ▼
-ROI engine              ← payback, NPV, IRR against productivity + automation benefits
+ROI engine
+(payback, NPV, IRR against productivity + automation benefits)
       │
       ▼
-LLM narrative layer     ← executive summary and risk narrative via GPT
+LLM narrative layer
+(executive summary and risk narrative)
       │
       ▼
-PDF exports             ← 12 report types across 5 stakeholder personas
-```
-
-The deterministic layer always runs first — LLM is used only for narrative generation on top of structured outputs, never for architecture decisions.
-
----
-
-## Tech stack
-
-- **Frontend:** React + Vite + Tailwind CSS v4
-- **Backend:** Express 5 + Node.js 24
-- **Database:** PostgreSQL + Drizzle ORM
-- **Auth:** Clerk (SSO-ready)
-- **PDF generation:** PDFKit (fully server-side, no headless browser)
-- **AI:** OpenAI GPT via Replit AI Integrations proxy
-- **Deployment:** Replit autoscale
-
----
-
-## About the author
-
-**Phani Burra** — Enterprise AI Infrastructure Architect
-
-I design and implement AI factory strategies for large enterprises — from GPU stack selection and hyperscaler architecture to data governance, observability, and total cost modelling.
-
-**Certifications**
-- 🟢 NVIDIA Certified Professional — AI Infrastructure
-- 🟣 Anthropic Claude Certified Architect — Foundations
-- ☁️ Enterprise Business Systems — ERP · CRM · HCM
-- 🤖 AI Practitioner
-
-**Background**
-- Enterprise AI/ML infrastructure design at scale (AIOps, GenAI, observability)
-- Generative AI for application and infrastructure modernisation
-- Enterprise data governance — CMDB, ServiceNow, 30M+ configuration items
-- Speaker: Tech2Sustain Roundtable alongside panelists from Amazon, Mars, and HCL America
-
-📎 [LinkedIn](https://www.linkedin.com/in/phaniburra/) · 🌐 [Platform](https://aifactorydesignplatform.com)
-
----
-
-## Why I built this
-
-Enterprises face hundreds of AI technology choices — GPU vendors, hyperscalers, LLM providers, vector stores, orchestration layers, security platforms — all before writing a single line of code. Most organizations lack a structured way to compare options, model costs, and align decisions to business outcomes.
-
-I built AI Factory Design to give architects and executives a structured, defensible way to make those decisions — one that produces artefacts (architecture diagrams, cost models, ROI cases) they can walk into a board room or procurement review with.
-
----
-
-*Generated by [AI Factory Design Platform](https://aifactorydesignplatform.com) · Reports are illustrative and based on parametric modelling — validate against your actual vendor quotes before procurement.*
+PDF exports
+(report pack across stakeholder personas)
