@@ -43,7 +43,7 @@ The PDFs in this folder are real exports from the platform for the following sce
 
 | Report | What's inside |
 |---|---|
-| [Executive Summary](enterprise_knowledge_assistant___azure_rag_platform_executive_summary.pdf) | Recommendation score, architecture rationale, key risks, next steps |
+| [Executive Summary](https://drive.google.com/file/d/1Szs4ghKnnGEbcSrErrHXDeTm7ZqeDOUS/view?usp=sharing) | Recommendation score, architecture rationale, key risks, next steps |
 | [Technical Blueprint](enterprise_knowledge_assistant___azure_rag_platform_technical_blueprint.pdf) | Layer-by-layer architecture — LLM, vector store, orchestration, security, compute |
 | [Cost Model](enterprise_knowledge_assistant___azure_rag_platform_cost_model.pdf) | 13-line cost breakdown, one-time vs recurring, 3-year TCO and monthly projection |
 | [ROI Business Case](enterprise_knowledge_assistant___azure_rag_platform_roi_business_case.pdf) | Payback period, NPV, IRR, 3-year cumulative benefit curve |
