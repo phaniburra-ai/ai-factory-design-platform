@@ -148,3 +148,12 @@ LLM narrative layer
       ▼
 PDF exports
 (report pack across stakeholder personas)
+```
+---
+
+##  Related Projects
+
+| Project | Description |
+|---------|-------------|
+| [Agent CMDB](https://github.com/phaniburra-ai/agentcmdb) | System of record and control plane for enterprise AI agents |
+| [AI Factory Design Platform](https://aifactorydesignplatform.com) | Design, simulate, and evaluate AI Factory architectures |
