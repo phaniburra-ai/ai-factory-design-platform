@@ -1,4 +1,7 @@
 # AI Factory Design Platform
+![Status](https://img.shields.io/badge/Status-Live-brightgreen)
+![Platform](https://img.shields.io/badge/Platform-Enterprise_AI-blue)
+![Built for](https://img.shields.io/badge/Built_for-CIO%2FCTO-orange)
 
 `AI Infrastructure` • `Agentic AI` • `Enterprise Architecture` • `Multi-Model Systems` • `Business Execution`
 
